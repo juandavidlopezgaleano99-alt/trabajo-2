@@ -80,6 +80,26 @@ td {
    background-color: #2b908f;
 }
 
+.metal-transicion {
+   background-color: #f9e79f;
+}
+
+.alcalinoterreo {
+   background-color: #7cb5ec;
+}
+
+.lantanido {
+   background-color: #b6e2d3;
+}
+
+.actinido {
+   background-color: #f5b7b1;
+}
+
+.desconocido {
+   background-color: #d5dbdb;
+}
+
 /* Estilo para las celdas vacías */
 .vacio {
    border: none;
